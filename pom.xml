@@ -10,7 +10,7 @@
     <modules>
         <module>product</module>
         <module>order</module>
-        <module>memeber</module>
+        <module>member</module>
         <module>coupon</module>
         <module>ware</module>
     </modules>
